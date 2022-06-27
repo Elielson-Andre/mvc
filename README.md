@@ -1,10 +1,10 @@
-## 🛠️⚙️ Motor de instalação para MVC no PHP
+## MVC no PHP
 
-## Instalação
+## 🚀Instalação
 Após clonar o projeto, realizar a instalação do ***composer*** para que todas as dependências sejam importadas.
 > composer install
 
-## Configuração
+## ⚙️Configuração
 Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
 
 As configurações de Banco de Dados e URL estão no arquivo *src/Config.php*
