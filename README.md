@@ -1,7 +1,7 @@
 ## 🛠️⚙️ Motor de instalação para MVC no PHP
 
 ## Instalação
-Após clonar o projeto, realizar a instalação do composer para que todas as dependências sejam importadas.
+Após clonar o projeto, realizar a instalação do ***composer*** para que todas as dependências sejam importadas.
 > composer install
 
 ## Configuração
