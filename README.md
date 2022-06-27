@@ -1,14 +1,8 @@
 ## 🛠️⚙️ Motor de instalação para MVC no PHP
 
 ## Instalação
-Você pode clonar este repositório OU baixar o .zip
-
-Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
-
-Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
+Após clonar o projeto, realizar a instalação do composer para que todas as dependências sejam importadas.
 > composer install
-
-Depois é só aguardar.
 
 ## Configuração
 Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
