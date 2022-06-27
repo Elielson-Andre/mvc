@@ -1,4 +1,4 @@
-## MVC no PHP
+## MVC | PHP
 
 ## 🚀Instalação
 Após clonar o projeto, realizar a instalação do ***composer*** para que todas as dependências sejam importadas.
